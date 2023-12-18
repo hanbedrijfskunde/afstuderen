@@ -3,7 +3,7 @@ title: "Ik ben student en wil een opdracht indienen"
 editor: visual
 jupyter: envpy39
 lang: nl
-format: 
+format:
   html:
     page-layout: full
     include-before-body: header.html
