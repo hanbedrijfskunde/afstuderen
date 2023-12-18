@@ -1,0 +1,152 @@
+---
+title: "Ik ben student en wil een opdracht indienen"
+editor: visual
+jupyter: envpy39
+lang: nl
+format: 
+  html:
+    page-layout: full
+    include-before-body: header.html
+    include-after-body: scripts.html
+---
+
+```{=html}
+
+<div class="container mt-5">
+    <table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">Competentie</th>
+            <th scope="col">Niveau 3 Beschrijving</th>
+            <th scope="col">Casus: Duurzame Mobiliteit (Bedrijf X)</th>
+            <th scope="col">Casus: Technologische Innovatie (Bedrijf Y)</th>
+            <th scope="col">Casus: Regionale Marktpositionering (Bedrijf Z)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Bedrijfskundig redeneren</td>
+            <td>De student kijkt meervoudig naar de problemen en oplossingen rondom een bedrijfskundig vraagstuk en ontwerpt een integrale oplossing die aantoonbaar leidt tot de realisatie van de bedrijfskundige doelstellingen.</td>
+            <td>Ontwerpt een duurzaam mobiliteitsplan dat verschillende bedrijfsaspecten integreert.</td>
+            <td>Analyseert hoe AI de efficiëntie in financiële advisering kan verbeteren.</td>
+            <td>Analyseert de regionale recruitmentmarkt voor strategische positionering van Bedrijf Z.</td>
+        </tr>
+        <tr>
+            <td>Probleem herkennen en diagnosticeren</td>
+            <td>Herkent een complex bedrijfskundig probleem vanuit integraal perspectief, identificeert en ontleedt mogelijke oorzaken en dwarsverbanden, en stelt de passende bedrijfskundige diagnose om de organisatie te verbeteren ofwel te vernieuwen.</td>
+            <td>Identificeert en analyseert uitdagingen van CO2-reductie.</td>
+            <td>Onderzoekt technologische optimalisaties voor beter klantcontact.</td>
+            <td>Onderzoekt regionale marktdynamieken en concurrentie voor Bedrijf Z.</td>
+        </tr>
+        <tr>
+            <td>Ontwerpen</td>
+            <td>Het ontwerp is zodanig opgesteld dat de organisatie haar doelstellingen nu en in de toekomst kan bereiken.</td>
+            <td>Ontwikkelt strategisch transitieplan naar slimme mobiliteitsmix.</td>
+            <td>Ontwerpt raamwerk voor AI-integratie in werkprocessen.</td>
+            <td>Ontwikkelt marketingstrategie voor marktpenetratie van Bedrijf Z.</td>
+        </tr>
+        <tr>
+            <td>Veranderen</td>
+            <td>De student begeleidt een complexe bedrijfskundige verandering, waarbij uiteenlopende belangen een rol spelen. Kan zelfstandig een integraal advies opstellen en uitbrengen en weet hiervoor in gesprekken met belanghebbenden draagvlak te creëren. Draagt zorg voor de implementatie en borging van de oplossing.</td>
+            <td>Begeleidt transitie naar duurzamere mobiliteitsoplossingen.</td>
+            <td>Implementeert AI-oplossingen voor financiële advisering.</td>
+            <td>Begeleidt strategische verandering voor marktuitbreiding van Bedrijf Z.</td>
+        </tr>
+        <tr>
+            <td>Evalueren</td>
+            <td>De student herkent patronen die leiden tot het disfunctioneren van de organisatie, weet daarover beargumenteerd te oordelen en stelt een integraal advies op ter verbetering.</td>
+            <td>Evalueert huidige mobiliteitsstrategie voor verbetering.</td>
+            <td>Evalueert effectiviteit van AI in financiële advisering.</td>
+            <td>Evalueert positioneringsstrategieën voor marktexpansie.</td>
+        </tr>
+        <tr>
+            <td>Onderzoekend vermogen</td>
+            <td>Kan een verantwoorde keuze maken voor een rol en aanpak passend bij het bedrijfskundig vraagstuk. Toont hierbij een kritische houding en verantwoordt het methodisch handelen in de bedrijfskundige opdracht.</td>
+            <td>Onderzoek naar duurzame mobiliteitsoplossingen.</td>
+            <td>Onderzoek naar AI-technologieën in de financiële sector.</td>
+            <td>Marktonderzoek naar recruitmentbehoeften en -trends.</td>
+        </tr>
+        <tr>
+          <td>Sociaal Communicatieve Vaardigheden</td>
+          <td>Kan communicatie doelbewust inzetten om draagvlak te creëren bij stakeholders met uiteenlopende belangen. Weet mensen door goede sociaal communicatieve vaardigheden te motiveren tot een constructieve bijdrage.</td>
+          <td>Communiceert over belang van duurzame mobiliteit.</td>
+          <td>Communiceert voordelen van AI in organisatie.</td>
+          <td>Communiceert strategieën voor effectieve marktpositie.</td>
+      </tr>
+      <tr>
+          <td>Schakelen en Verbinden</td>
+          <td>Kan zijn relatiebestand functioneel beheren, uitbreiden en evalueren. Kan contacten tactisch inzetten in verschillende situaties om doelen te bereiken. Is zich bewust van culturele diversiteit/diverse belangen en houdt daar rekening mee.</td>
+          <td>Netwerken opbouwen voor mobiliteitsstrategie.</td>
+          <td>Bruggen bouwen tussen technologie-experts en financiële adviseurs.</td>
+          <td>Netwerken opbouwen voor regionale marktuitbreiding.</td>
+      </tr>
+      <tr>
+          <td>Professionaliseren</td>
+          <td>De student verspreidt kennis waardoor een bijdrage wordt geleverd aan de ontwikkeling van de organisatie en de bedrijfskundige beroepspraktijk. Kan zijn eigen handelen verantwoorden. Is in een continu proces bezig te reflecteren op zijn eigen handelen en zich verder te ontwikkelen.</td>
+          <td>Ontwikkelt vaardigheden in duurzaamheidsmanagement.</td>
+          <td>Ontwikkelt digitale competenties in AI-toepassingen.</td>
+          <td>Ontwikkelt expertise in marktpositionering en regionale marktanalyse.</td>
+      </tr>
+      <tr>
+          <td>Handelen vanuit Waarden</td>
+          <td>Legt verantwoording af over gemaakte keuzes op basis van het eigen morele kompas als professioneel normerende kaders. Streeft aantoonbaar naar duurzame maatschappelijk verantwoorde bedrijfskundige oplossingen.</td>
+          <td>Focus op duurzaamheid en ethische mobiliteitskeuzes.</td>
+          <td>Ethisch verantwoorde AI-implementatie voor klantwelzijn.</td>
+          <td>Ethische overwegingen bij het uitbreiden van de marktpositie.</td>
+      </tr>
+
+    </tbody>
+</table>
+</div>
+```
+
+```{=html}
+<div class="container">
+  <div class="row">
+    <div class="col-4">
+      <div class="card">
+            <div class="card-body">
+                <h2 class="card-title">Jasper van Dijk</h2>
+                <h4 class="card-subtitle mb-2 text-muted">Bedrijf X</h4>
+                <img src="jasper.png" class="card-img-top" alt="...">
+                <p><strong>Leeftijd:</strong> 22 jaar</p>
+                <p><strong>Achtergrond:</strong> Jasper is een student HBO Bedrijfskunde met een sterke interesse in duurzaamheid en milieu. Hij heeft een achtergrond in projectmanagement en heeft vrijwilligerswerk gedaan bij lokale milieu-initiatieven.</p>
+                <p><strong>Interesses:</strong> Duurzaamheid, innovatie in transport, en bedrijfsstrategie.</p>
+                <p><strong>Motivatie voor de opdracht:</strong> Jasper is gepassioneerd over het vinden van zakelijke oplossingen die niet alleen winstgevend zijn, maar ook een positieve impact hebben op het milieu. Hij ziet deze opdracht als een kans om zijn kennis in bedrijfskunde te combineren met zijn passie voor duurzaamheid.</p>
+                <h5>Opdracht Beschrijving:</h5>
+                <p>Jasper zal een strategie ontwikkelen voor Bedrijf X om hun mobiliteitsplan te verduurzamen. Zijn doel is om een plan te ontwerpen dat de CO2-uitstoot aanzienlijk vermindert door een overgang naar duurzamere vervoersopties. Hij zal zich richten op het analyseren van de huidige mobiliteitsstrategie en identificeren waar verbeteringen mogelijk zijn. Dit omvat het herkennen van complexe problemen, het ontwikkelen van een strategisch ontwerp, en het voorstellen van veranderingen die zowel haalbaar als effectief zijn. Jasper zal gebruikmaken van zijn onderzoeksvaardigheden om gegevens te verzamelen en te analyseren, en zal communiceren met verschillende belanghebbenden om draagvlak en begrip voor zijn voorstellen te creëren. Zijn aanpak zal gebaseerd zijn op ethische overwegingen en de noodzaak voor duurzame, maatschappelijk verantwoorde oplossingen. Door zijn werk zal Jasper zijn professionele vaardigheden verder ontwikkelen en bijdragen aan de duurzaamheidsdoelstellingen van Bedrijf X.</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-4">
+      <div class="card mb-3">
+            <div class="card-body">
+                <h2 class="card-title">Sara Al-Bakri</h2>
+                <h4 class="card-subtitle mb-2 text-muted">Bedrijf Y</h4>
+                <img src="sara.png" class="card-img-top" alt="...">
+                <p><strong>Leeftijd:</strong> 23 jaar</p>
+                <p><strong>Achtergrond:</strong> Emma is een ambitieuze bedrijfskundestudent met een focus op financiële technologie. Ze heeft een passie voor technologische innovatie in de financiële sector.</p>
+                <p><strong>Interesses:</strong> Fintech, AI, klantrelatiebeheer.</p>
+                <p><strong>Motivatie voor de opdracht:</strong> Emma wil onderzoeken hoe AI de efficiëntie kan verbeteren en meer ruimte kan creëren voor persoonlijk klantcontact bij Bedrijf Y.</p>
+                <p><strong>Opdracht Beschrijving:</strong> Emma's project bij Bedrijf Y focust op het integreren van AI-technologieën om financiële advisering efficiënter te maken. Haar doel is een innovatief adviesmodel te ontwikkelen dat AI gebruikt om routinematige taken te automatiseren, waardoor adviseurs meer tijd hebben voor persoonlijk klantcontact. Ze zal complexe technologische en bedrijfskundige vraagstukken analyseren, een strategisch plan ontwerpen voor de implementatie van AI, en dit plan communiceren met belanghebbenden om ondersteuning en begrip te verkrijgen. Emma's onderzoek zal zich richten op zowel de technologische mogelijkheden als de impact op klantrelaties, met een sterke nadruk op ethische en duurzame bedrijfsvoering. Dit project zal bijdragen aan zowel de ontwikkeling van haar professionele vaardigheden als aan de verbetering van klantgerichtheid bij Bedrijf Y.</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-4">
+      <div class="card mb-3">
+            <div class="card-body">
+                <h2 class="card-title">Lucas Vermeer</h2>
+                <h4 class="card-subtitle mb-2 text-muted">Bedrijf Z</h4>
+                <img src="lucas.png" class="card-img-top" alt="...">
+                <p><strong>Leeftijd:</strong> 24 jaar</p>
+                <p><strong>Achtergrond:</strong> Lucas is geïnteresseerd in marketing en bedrijfsontwikkeling, met een bijzondere focus op groeistrategieën en marktpositionering.</p>
+                <p><strong>Interesses:</strong> Marketing, bedrijfsgroei, marktanalyse.</p>
+                <p><strong>Motivatie voor de opdracht:</strong> Lucas is enthousiast om Bedrijf Z te helpen bij het uitbreiden naar een nieuwe regio en het ontwikkelen van effectieve marktpositioneringsstrategieën.</p>
+                <p><strong>Opdracht Beschrijving:</strong> Lucas zal een uitgebreide marktanalyse uitvoeren voor Bedrijf Z, gericht op het bepalen van de optimale positioneringsstrategie in een nieuwe regio. Zijn opdracht omvat het identificeren van de unieke behoeften en kansen in de markt, het analyseren van de concurrentie, en het ontwikkelen van een marketingstrategie die aansluit bij de regionale karakteristieken. Hij zal zijn onderzoeksvaardigheden inzetten om relevante data te verzamelen en te analyseren, strategische veranderingen voorstellen, en zijn bevindingen communiceren met het management van Bedrijf Z. Lucas' aanpak zal gericht zijn op ethisch handelen en het bouwen van duurzame relaties, met als doel het versterken van Bedrijf Z's marktpositie en het bevorderen van hun groei in de nieuwe regio.</p>
+            </div>
+        </div>
+    </div>
+  </div>
+</div>
+
+```
