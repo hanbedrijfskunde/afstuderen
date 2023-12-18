@@ -1,5 +1,5 @@
 ---
-title: "Ik ben student en wil een opdracht indienen"
+title: "Ik ben student en wil een afstudeeropdracht indienen"
 editor: visual
 jupyter: envpy39
 lang: nl
