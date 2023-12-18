@@ -11,16 +11,82 @@ format:
 ---
 
 ```{=html}
+<h2>Bedrijfskundige Competenties</h2>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Competentie</th>
+                <th>Beschrijving</th>
+                <th>Niveau 3</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Bedrijfskundig redeneren</td>
+                <td>De startende professional is in staat tot onderbouwde argumenten te komen voor een integraal advies op basis van data, theorie, de bedrijfskundige professionele vakmanschap en persoonlijke inbreng, zodat besluitvorming hierop plaats kan vinden. De student heeft zicht op de bedrijfskundige aspecten in relatie tot elkaar conform het bedrijfskundig model.</td>
+                <td>De student kijkt meervoudig naar de problemen en oplossingen rondom een bedrijfskundig vraagstuk en ontwerpt een integrale oplossing die aantoonbaar leidt tot de realisatie van de bedrijfskundige doelstellingen.</td>
+            </tr>
+            <tr>
+                <td>Probleem herkennen en diagnosticeren</td>
+                <td>De startende BK-professional is in staat om problemen van organisatorische aard te signaleren, te analyseren en te beoordelen ten behoeve van de effectiviteit van een organisatie en deze uit te werken tot een bedrijfskundig vraagstuk.</td>
+                <td>Herkent een complex bedrijfskundig probleem vanuit integraal perspectief, identificeert en ontleedt mogelijke oorzaken en dwarsverbanden, en stelt de passende bedrijfskundige diagnose om de organisatie te verbeteren ofwel te vernieuwen.</td>
+            </tr>
+            <tr>
+                <td>Ontwerpen</td>
+                <td>De startende BK professional is in staat met een onderzoekende en nieuwsgierige houding op basis van een programma van eisen, ontwikkelingen en trends en evidence based practices, nieuwe ideeën te signaleren, te genereren en uit te voeren om de effectiviteit van een organisatie te verbeteren en bedrijfsprocessen te (her)ontwerpen.</td>
+                <td>Het ontwerp is zodanig opgesteld dat de organisatie haar doelstellingen nu en in de toekomst kan bereiken.</td>
+            </tr>
+            <tr>
+                <td>Veranderen</td>
+                <td>De bedrijfskundige professional is in staat om (complexe) veranderingsprocessen vorm te geven en te (bege)leiden door verbinding te creëren tussen vakgebieden, structuren, mensen en processen. Hij hanteert hierbij een op draagvlak gerichte aanpak.</td>
+                <td>De student begeleidt een complexe bedrijfskundige verandering, waarbij uiteenlopende belangen een rol spelen. Kan zelfstandig een integraal advies opstellen en uitbrengen en weet hiervoor in gesprekken met belanghebbenden draagvlak te creëren. Draagt zorg voor de implementatie en borging van de oplossing.</td>
+            </tr>
+            <tr>
+                <td>Evalueren</td>
+                <td>De startende bedrijfskundige professional is in staat de effectiviteit van verbeteracties te beoordelen en advies te geven over verdere ontwikkeling van de organisatie. De evaluatie wordt gebruikt om het leren van de organisatie te verbeteren en is gericht op de eerder gemaakte keuzes (diagnose en ontwerp).</td>
+                <td>De student herkent patronen die leiden tot het disfunctioneren van de organisatie, weet daarover beargumenteert te oordelen en stelt een integraal advies op ter verbetering.</td>
+            </tr>
+            <tr>
+                <td>Onderzoekend vermogen</td>
+                <td>De startende professional beargumenteert de keuze voor rol en aanpak om tot oplossing te komen van het bedrijfskundige vraagstuk. In de aanpak beschikt hij over een onderzoekende houding van waaruit hij denkt en werkt. Hij past kennis uit beschikbaar onderzoek toe in de eigen werkpraktijk en ontwerpt en voert methodisch zelf (kleinschalig) praktijkgericht onderzoek uit.</td>
+                <td>Kan een verantwoorde keuze maken voor een rol en aanpak passend bij het bedrijfskundig vraagstuk. Toont hierbij een kritische houding en verantwoordt het methodisch handelen in de bedrijfskundige opdracht.</td>
+            </tr>
+            <tr>
+                <td>Sociaal communicatieve vaardigheden (communiceren en adviseren)</td>
+                <td>De startende BK professional kan, zowel in de Nederlandse als Engelse taal, ideeën, meningen, standpunten en besluiten begrijpelijk en overtuigend overbrengen, afgestemd op de toehoorder en/of in begrijpelijke en correcte taal op schrift stellen en afstemmen op de lezer. Bewust van de eigen rol in de interactie met anderen en kan gespreksvaardigheden inzetten om sturing te geven aan het realiseren van de bedrijfskundige doelen.</td>
+                <td>Kan communicatie doelbewust inzetten om draagvlak te creëren bij stakeholders met uiteenlopende belangen. Weet mensen door goede sociaal communicatieve vaardigheden te motiveren tot een constructieve bijdrage.</td>
+            </tr>
+            <tr>
+                <td>Schakelen en verbinden</td>
+                <td>De startende professional kan waardevolle (internationale) relaties leggen en allianties aangaan, binnen en buiten de organisatie(keten) voor het verkrijgen van informatie, steun en medewerking. Hij weet wat er nodig is om relevante verbindingen te leggen tussen mensen en de verschillende functionele gebieden en niveaus en kan daar soepel tussen schakelen.</td>
+                <td>Kan zijn relatiebestand functioneel beheren, uitbreiden en evalueren. Kan contacten tactisch inzetten in verschillende situaties om doelen te bereiken. Is zich bewust van culturele diversiteit/diverse belangen en houdt daar rekening mee.</td>
+            </tr>
+            <tr>
+                <td>Professionaliseren</td>
+                <td>De startende BK professional is in staat via de weg van reflectie zich professioneel te blijven ontwikkelen en een bijdrage te leveren aan de ontwikkeling van de organisatie en de beroepspraktijk door opgedane kennis te borgen, over te dragen en te verspreiden.</td>
+                <td>De student verspreidt kennis waardoor een bijdrage wordt geleverd aan de ontwikkeling van de organisatie en de bedrijfskundige beroepspraktijk. Kan zijn eigen handelen verantwoorden. Is in een continu proces bezig te reflecteren op zijn eigen handelen en zich verder te ontwikkelen.</td>
+            </tr>
+            <tr>
+                <td>Handelen vanuit waarden</td>
+                <td>De startende bedrijfskundige professional handelt vanuit een waardenbesef en heeft bij het zoeken naar oplossingen voor bedrijfskundige vraagstukken oog voor mogelijke consequenties van (bewuste of onbewuste) keuzes en handelingen op de langere termijn.</td>
+                <td>Legt verantwoording af over gemaakte keuzes op basis van het eigen morele kompas als professioneel normerende kaders. Streeft aantoonbaar naar duurzame maatschappelijke verantwoordde bedrijfskundige oplossingen.</td>
+            </tr>
+      </tbody>
+</table>
+```
 
-<div class="container mt-5">
+
+```{=html}
+
+<div class="container">
     <table class="table table-striped">
     <thead>
-        <tr>
+        <tr class="align-top">
             <th scope="col">Competentie</th>
-            <th scope="col">Niveau 3 Beschrijving</th>
-            <th scope="col">Casus: Duurzame Mobiliteit (Bedrijf X)</th>
-            <th scope="col">Casus: Technologische Innovatie (Bedrijf Y)</th>
-            <th scope="col">Casus: Regionale Marktpositionering (Bedrijf Z)</th>
+            <th scope="col">Niveau 3</th>
+            <th scope="col">Casus X: Duurzame Mobiliteit</th>
+            <th scope="col">Casus Y: Technologische Innovatie</th>
+            <th scope="col">Casus Z: Regionale Marktpositionering</th>
         </tr>
     </thead>
     <tbody>
